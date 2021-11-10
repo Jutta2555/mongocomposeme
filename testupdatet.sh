@@ -1,0 +1,2 @@
+/bin
+/home/jutta/bin
